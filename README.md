@@ -6,7 +6,7 @@
 
 By default, OnApp will create a new billing plan for each organization that is automatically imported. This script will move all users and organizations to use a centralized billing plan of your choice.
 
-*Please only use on a fresh install*
+**Please only use on a fresh install**
 
 1.) Download the [script](https://raw.githubusercontent.com/jimfreeman/scripts/master/bpupdate1.sh)
 
